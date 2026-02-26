@@ -1,0 +1,7 @@
+echo "# PS2026" >> README.md
+itinerário inicial
+git adicionar README.md
+git commit - m "primeiro commit"
+git branch -M principal
+git remote add origin https://github.com/juniorluis2409/PS2026.git
+git push - u origem main
